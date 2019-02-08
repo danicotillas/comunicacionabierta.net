@@ -27,3 +27,5 @@ Nuestras semillas son las ideas. Llevamos casi 8 años juntándonos entre pares,
 [su_document url="https://pillku.org/pillku-edicion-antologia.pdf" width="700" height="1000"]
 
 [su_button url="https://pillku.org/pillku-edicion-antologia.pdf" target="blank" style="flat" background="#ff0055" color="#ffffff" size="5" center="yes" radius="round" icon="icon: globe" text_shadow="0px 0px 0px #ff0055"]<strong>Descargar en .pdf</strong>[/su_button]
+
+Una prueba de edición en Github a través de Wordpress Git Sync
