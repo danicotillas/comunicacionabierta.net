@@ -1,6 +1,6 @@
 ---
 ID: 2760
-post_title: Federame mon amour
+post_title: Fedérame mon amour
 author: danicotillas
 post_excerpt: >
   Hablar de federación debe convertirse
