@@ -26,6 +26,6 @@ post_date: 2019-05-19 09:18:18
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>function wc_product_category_add_tax_to_api() {
-	$mytax = get_taxonomy( 'tipo_proceso' ); $mytax->show_in_rest = true; $mytax = get_taxonomy( 'tipo_proyecto' ); $mytax->show_in_rest = true; $mytax = get_taxonomy( 'saber_hacer' ); $mytax->show_in_rest = true; $mytax = get_taxonomy( 'tipo_implicacion' ); $mytax->show_in_rest = true; }
+	$mytax = get_taxonomy( 'tipo_proceso' ); $mytax-&gt;show_in_rest = true; $mytax = get_taxonomy( 'tipo_proyecto' ); $mytax-&gt;show_in_rest = true; $mytax = get_taxonomy( 'saber_hacer' ); $mytax-&gt;show_in_rest = true; $mytax = get_taxonomy( 'tipo_implicacion' ); $mytax-&gt;show_in_rest = true; }
 	add_action( 'init', 'wc_product_category_add_tax_to_api', 30 );</code></pre>
 <!-- /wp:code -->
