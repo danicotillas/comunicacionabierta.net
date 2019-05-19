@@ -13,11 +13,7 @@ published: true
 post_date: 2019-05-19 05:26:05
 ---
 <!-- wp:paragraph -->
-<p>En algunos temas de WordPress no se hace posible ver la imagen destacada en el cuerpo de la entrada, como por ejemplo en este mismo blog. Hace un tiempo cambié esa opción y cree la posibilidad gracias al siguiente post:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://wpsites.net/web-design/add-featured-image-before-content-in-any-theme/">Add Featured Image Before Content In Any Theme</a></p>
+<p>En algunos temas de WordPress no se hace posible ver la imagen destacada en el cuerpo de la entrada, como por ejemplo en este mismo blog. Hace un tiempo cambié esa opción y cree la posibilidad gracias al siguiente post: <a href="https://wpsites.net/web-design/add-featured-image-before-content-in-any-theme/">Add Featured Image Before Content In Any Theme</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
