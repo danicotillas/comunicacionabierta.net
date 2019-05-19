@@ -10,6 +10,14 @@ published: true
 post_date: 2019-05-19 05:42:28
 ---
 <!-- wp:paragraph -->
+<p>This post is (hopefullly) an IndieWeb answer to <a href="https://boffosocko.com/2019/05/18/can-indie-social-media-save-us-new-yorker/#comments">https://boffosocko.com/2019/05/18/can-indie-social-media-save-us-new-yorker</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
 <p>Since I knew about #IndieWeb I have been investigating but still got confused, maybe because of it´s amazing simplicity.</p>
 <!-- /wp:paragraph -->
 
