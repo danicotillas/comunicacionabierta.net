@@ -21,7 +21,7 @@ post_date: 2019-05-19 05:26:05
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Y de paso le metí unos saltos de línea &lt;br> para que así no aparezca el texto pegado a la imagen.</p>
+<p>Y de paso le metí unos saltos de línea &lt;br&gt; para que así no aparezca el texto pegado a la imagen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:code -->
