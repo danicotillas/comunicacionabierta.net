@@ -13,9 +13,7 @@ post_date: 2019-05-19 05:42:28
 <p>This post is (hopefullly) an IndieWeb answer to <a href="https://boffosocko.com/2019/05/18/can-indie-social-media-save-us-new-yorker/#comments">https://boffosocko.com/2019/05/18/can-indie-social-media-save-us-new-yorker</a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:separator -->
-<hr class="wp-block-separator"/>
-<!-- /wp:separator -->
+<!-- wp:separator --><hr class="wp-block-separator" /><!-- /wp:separator -->
 
 <!-- wp:paragraph -->
 <p>Since I knew about #IndieWeb I have been investigating but still got confused, maybe because of it´s amazing simplicity.</p>
@@ -30,9 +28,9 @@ post_date: 2019-05-19 05:42:28
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2786} -->
-<figure class="wp-block-image"><img src="https://comunicacionabierta.net/wp-content/uploads/2019/05/boffosocko-blog.png" alt="" class="wp-image-2786"/></figure>
+<figure class="wp-block-image"><img class="wp-image-2786" src="https://comunicacionabierta.net/wp-content/uploads/2019/05/boffosocko-blog.png" alt="" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p></p>
+<p>&nbsp;</p>
 <!-- /wp:paragraph -->
